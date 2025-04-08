@@ -1,0 +1,6 @@
+Starting Nmap 7.93
+Nmap scan report for 192.168.1.10
+PORT   STATE SERVICE VERSION
+21/tcp open  ftp     vsftpd 2.3.4
+22/tcp open  ssh     OpenSSH 4.7p1
+80/tcp open  http    Apache httpd 2.2.8
